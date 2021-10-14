@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&user=KM3gJ6MAAAAJ #/publications/
 
   - title: "Talks"
     url: /talks/    
@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /files/WindingM_CV.pdf
+    url: /files/WindingM_CV.pdf #/cv/
     
   - title: "Guide"
     url: /markdown/
