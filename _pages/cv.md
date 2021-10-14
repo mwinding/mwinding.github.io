@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "CV"
+title: #"CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-![](/files/WindingM_CV.pdf)
+![](/images/WindingM_CV.pdf)
