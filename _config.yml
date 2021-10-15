@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Dr. Michael Winding"
 title_separator          : "-"
-name                     : &name "Michael Winding"
+name                     : &name "Dr. Michael Winding"
 description              : &description "Research Associate at University of Cambridge"
 url                      : https://mwinding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
