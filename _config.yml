@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Dr. Michael Winding"
 title_separator          : "-"
 name                     : &name "Dr. Michael Winding"
-description              : &description "Research Associate at University of Cambridge"
+description              : &description "Group Leader at the Francis Crick Institute"
 url                      : https://mwinding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mwinding/mwinding.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Michael Winding"
   avatar           : "profile.png"
-  bio              : "Research Associate | Marta Zlatic Group | University of Cambridge, UK | Cell Biology PhD, Northwestern University, USA | Research: Connectomics, Systems Neuroscience, Genetics"
+  bio              : "Group Leader, Francis Crick Institute | Research: Social Behaviour, Connectomics, Systems Neuroscience"
   location         : "Cambridge, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=michael+winding"
